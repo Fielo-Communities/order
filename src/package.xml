@@ -4,5 +4,9 @@
         <members>Order</members>
         <name>ApexTrigger</name>
     </types>
+    <types>
+        <members>FieloOrder</members>
+        <name>StaticResource</name>
+    </types>	
     <version>41.0</version>
 </Package>

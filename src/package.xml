@@ -5,6 +5,10 @@
         <name>ApexTrigger</name>
     </types>
     <types>
+        <members>FieloPLT__Transaction__c.Order__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>FieloOrder</members>
         <name>StaticResource</name>
     </types>	

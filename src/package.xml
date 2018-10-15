@@ -6,6 +6,7 @@
     </types>
     <types>
         <members>FieloPLT__Transaction__c.Order__c</members>
+		<members>Order.Member__c</members>
         <name>CustomField</name>
     </types>
     <types>

@@ -2,5 +2,10 @@
 "type":"repository",
 "version":"master",
 "dependencies":[
+			{
+			"type":"repository",
+			"version":"master",
+			"name":"partnercommunity"
+			}
     ]
 }

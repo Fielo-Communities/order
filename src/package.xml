@@ -4,5 +4,14 @@
         <members>Order</members>
         <name>ApexTrigger</name>
     </types>
+    <types>
+        <members>FieloPLT__Transaction__c.Order__c</members>
+		<members>Order.Member__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>FieloOrder</members>
+        <name>StaticResource</name>
+    </types>	
     <version>41.0</version>
 </Package>

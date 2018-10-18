@@ -3,7 +3,7 @@
 "version":"master",
 "dependencies":[
 			{
-			"type":"repository",
+			"type":"linkRepository",
 			"version":"master",
 			"name":"partnercommunity"
 			}
